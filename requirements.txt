@@ -1,0 +1,33 @@
+# Data manipulation and analysis
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Data visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Word cloud generation
+wordcloud>=1.8.0
+
+# Natural Language Processing
+nltk>=3.7
+textblob>=0.17.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+
+# Topic modeling and text processing
+gensim>=4.1.0
+
+# Interactive visualization (for plotly used in notebook)
+plotly>=5.0.0
+
+# LDA visualization (for pyLDAvis used in notebook)
+pyLDAvis>=3.3.0
+
+# IPython for Jupyter notebook support
+ipython>=7.0.0
+
+# Additional dependencies that may be needed
+jupyter>=1.0.0
+notebook>=6.0.0
